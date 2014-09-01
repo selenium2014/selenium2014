@@ -1,4 +1,4 @@
-#基于Selenium 2的自动化测试 - 示例源码(部分)
+#基于Selenium 2的自动化测试 - 示例源码
 ============
 ![基于Selenium 2的自动化测试](http://img3.douban.com/mpic/s27401030.jpg)
 
