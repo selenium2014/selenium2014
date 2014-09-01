@@ -1,0 +1,46 @@
+{
+  "capabilities":
+      [
+        {
+          "browserName": "firefox",
+          "version": 23,
+          "maxInstances": 5,
+          "seleniumProtocol": "WebDriver"
+        },
+        {
+          "browserName": "firefox",
+          "version": 3.6,
+          "maxInstances": 5,
+          "seleniumProtocol": "WebDriver"
+        },
+        {
+          "browserName": "chrome",
+          "version": 28,
+          "maxInstances": 5,
+          "seleniumProtocol": "WebDriver"
+        },
+        {
+          "browserName": "opera",
+          "version": 15,
+          "maxInstances": 1,
+          "seleniumProtocol": "WebDriver"
+        },
+		{
+          "browserName": "safari",
+          "version": 7.0,
+          "maxInstances": 3,
+          "seleniumProtocol": "WebDriver"
+        }
+      ],
+  "configuration":
+  {
+    "proxy": "org.openqa.grid.selenium.proxy.DefaultRemoteProxy",
+    "maxSession": 5,
+    "port": 5555,
+    "host": 192.168.0.104,
+    "register": true,
+    "registerCycle": 5000,
+    "hubPort": 4444,
+    "hubHost": 192.168.0.104
+  }
+}

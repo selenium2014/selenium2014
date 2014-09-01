@@ -1,0 +1,10 @@
+q_c0;"ODA0ZmZhYjZkMjU1ZDEyYTEwYmE5N2Y0Y2I0YjA1MjZ8S2lpb2ZwOHpSU1FmcTZkUg==|1394351288|46cdcb7b6969347c1363529b10ed717c02bee5d1";.zhihu.com;/;null;false
+__utmv;155987696.100-1|2=registration_date=20140309=1^3=entry_date=20140309=1;.zhihu.com;/;Tue Mar 08 15:48:19 CST 2016;false
+_xsrf;1eb258ac849c4becad8cebfa7ead5cf9;www.zhihu.com;/;null;false
+zata;zhihu.com.0.589120;www.zhihu.com;/;Mon Mar 09 15:48:03 CST 2015;false
+zatb;zhihu.com;www.zhihu.com;/;Sun Mar 09 16:18:19 CST 2014;false
+__utmz;155987696.1394351299.1.1.utmcsr=zhihu.com|utmccn=(referral)|utmcmd=referral|utmcct=/;.zhihu.com;/;Mon Sep 08 03:48:19 CST 2014;false
+q_c1;7741e604388f4f5f99d9a20ed941d2a2|1394351288000|1394351288000;.zhihu.com;/;Wed Mar 08 15:48:08 CST 2017;false
+__utma;155987696.724370004.1394351299.1394351299.1394351299.1;.zhihu.com;/;Tue Mar 08 15:48:19 CST 2016;false
+__utmc;155987696;.zhihu.com;/;null;false
+__utmb;155987696.3.10.1394351299;.zhihu.com;/;Sun Mar 09 16:18:19 CST 2014;false
